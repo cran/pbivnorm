@@ -1,0 +1,7 @@
+6d8c8bdabf76398b676bff562a39e4c9 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+cf47177a0abb523e2b744844758205c5 *NEWS
+7d2660bc1f517f648aff91103c89acac *R/pbivnorm.r
+2acf04a22758849fe1f1ccbcb46ce683 *R/zzz.r
+34ae26c4a19b8c9a521d88499821bf0a *man/pbivnorm.Rd
+07240f6859a563b914328012f77ed75f *src/pbivnorm.f
